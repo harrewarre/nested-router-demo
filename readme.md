@@ -1,3 +1,3 @@
 # ExpressJS nested router demo
 
-See full store [here](http://harrewijnen.net/expressjs-route-management/)
+See full story [here](http://harrewijnen.net/expressjs-route-management/)
